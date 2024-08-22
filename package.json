@@ -1,0 +1,14 @@
+{
+  "name": "video_player",
+  "version": "1.0.0",
+  "description": "A simple Node.js website to play videos from a URL input.",
+  "main": "video_player.js",
+  "scripts": {
+    "start": "node video_player.js"
+  },
+  "author": "juic3b0x 2024",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
